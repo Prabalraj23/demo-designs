@@ -1,0 +1,6 @@
+.heading-divider{
+    border-top: 3px solid rgb(252, 193, 249) !important;
+    border-bottom: 3px solid rgb(252, 193, 249) !important;
+    padding-left:50px;
+    padding-right:50px;
+}

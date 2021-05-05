@@ -1,0 +1,24 @@
+.container {
+    position: relative;
+    width: 100%;
+  }
+  .container .btn {
+    position: absolute;
+    top: 8% !important;
+    left: 78%;
+    transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    
+  }
+  .container .logo {
+    position: absolute;
+    top: 5% !important;
+    left: 5%;
+    width:12rem;
+
+  }
+  .container img {
+    width: 100%;
+    height: auto;
+  }
+ 

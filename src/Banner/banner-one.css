@@ -1,0 +1,36 @@
+.container {
+  position: relative;
+  width: 100%;
+}
+.container .btn {
+  position: absolute;
+  top: 10% !important;
+  left: 78%;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+}
+.container .logo {
+  position: absolute;
+  top: 7% !important;
+  left: 5%;
+  width: 12rem;
+}
+.container img {
+  width: 100%;
+  height: auto;
+}
+.banner-button {
+  color: rgb(104, 103, 103);
+  font-weight: 600;
+  background-color: transparent;
+  border: 1px rgb(104, 103, 103) solid;
+  border-radius: 5px !important;
+}
+.banner-words {
+  position: absolute;
+  top: 20rem !important;
+  color:rgb(104, 103, 103) ;
+  left: 3%;
+  font-size: 4em;
+  font-weight: lighter;
+}
